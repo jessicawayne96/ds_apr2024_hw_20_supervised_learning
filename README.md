@@ -1,5 +1,9 @@
 # ds_apr2024_hw_20_supervised_learning
 
+In this Challenge, you’ll use various techniques to train and evaluate a model based on loan risk. You’ll use a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
+
+
+
 Overview of the Analysis
 
 The purpose of this analysis is to evaluate the performance of various machine learning models in predicting credit risk. By analyzing the accuracy, precision, and recall of these models, we aim to determine the most effective approach for identifying potential credit defaults, which is crucial for making informed lending decisions.
