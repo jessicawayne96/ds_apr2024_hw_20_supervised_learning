@@ -13,6 +13,7 @@ Results
 - Recall: 82% Recall, also known as sensitivity, measures the model's ability to identify actual positive cases. It is the ratio of true positive predictions to the total actual positives (true positives + false negatives). A recall score of 82% indicates that the model successfully identifies 82% of actual defaults.
 
 Summary
+
 After evaluating the machine learning models, the model with the highest accuracy was selected for recommendation. The accuracy score of 85% indicates that the model correctly predicts credit risk outcomes 85% of the time. The precision score of 78% suggests that when the model predicts a borrower will default, it is accurate 78% of the time. The recall score of 82% indicates that the model successfully identifies 82% of actual defaults.
 
 Given these performance metrics, I recommend using this model for the company’s credit risk assessment. The combination of high accuracy and acceptable precision and recall scores demonstrates that the model is effective in distinguishing between high-risk and low-risk borrowers. This capability is essential for minimizing financial losses due to defaults while maximizing the potential for lending to creditworthy individuals.
